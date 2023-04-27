@@ -20,6 +20,7 @@ Hello. I am a junior software developer looking to broaden my knowledge and impr
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
 <br />
 
+
 <details>
  <summary><h3>👨‍💻 Ronald's Software Development Journey</h3></summary>
    
